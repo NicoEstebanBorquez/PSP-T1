@@ -1,7 +1,6 @@
 # PSP-T1
-PSP Tarea 1
 
-CONTEXTO DE LA TAREA
+## CONTEXTO DE LA TAREA
 
 Con esta tarea aprenderemos a crear aplicaciones que creen procesos que realicen operaciones y a comunicar procesos padres con procesos hijos.
  
