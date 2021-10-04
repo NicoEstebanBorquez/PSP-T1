@@ -1,6 +1,6 @@
 # PSP-T1
 
-## CONTEXTO DE LA TAREA
+### CONTEXTO DE LA TAREA
 Con esta tarea aprenderemos a crear aplicaciones que creen procesos que realicen operaciones y a comunicar procesos padres con procesos hijos.
  
 ### ENUNCIADO DE LA TAREA
@@ -8,7 +8,7 @@ En esta tarea deberemos crear una aplicación que nos muestre la tabla de multip
 
 
 
-RA01_a)  Se han analizado las características de los proceso y de su ejecución por el sistema operativo.
+#### RA01_a)  Se han analizado las características de los proceso y de su ejecución por el sistema operativo.
 
 Si se crean, indica en la aplicación que realizarás para la presente práctica, qué procesos se van a crear. Si no se crea ninguno indícalo también.
 
