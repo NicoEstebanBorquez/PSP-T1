@@ -1,16 +1,9 @@
 # PSP-T1
 
 ## CONTEXTO DE LA TAREA
-
 Con esta tarea aprenderemos a crear aplicaciones que creen procesos que realicen operaciones y a comunicar procesos padres con procesos hijos.
  
-
-Para realizar esta tarea es aconsejable revisar los contenidos de la Unidad 1.
-
-¿Qué debes hacer?
-ENUNCIADO DE LA TAREA
-
-
+### ENUNCIADO DE LA TAREA
 En esta tarea deberemos crear una aplicación que nos muestre la tabla de multiplicar de los números del 1 al 10. Para ello crearemos una aplicación que (será el proceso hijo), que realice la tabla de multiplicar del número que reciba como entrada:
 
 
